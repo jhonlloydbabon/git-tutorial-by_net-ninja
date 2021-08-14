@@ -1,1 +1,1 @@
-console.log('This is feature-b')
+console.log('feature-b is ready!')
